@@ -7,9 +7,6 @@ Play the demo by extracting the zip and running the exe. Run multiple versions a
 Screenshots below:
 <br />
   <h2> Screenshots </h2>
-  <b> Temporary Map Loading Screen </b>
-  <img src="https://raw.githubusercontent.com/cm3277/Unity-Multiplayer-Project/master/Screenshots/TempMapLoadingScreen.png" />
-  <br />
     <b> Team alliance selection screen </b>
   <img src="https://raw.githubusercontent.com/cm3277/Unity-Multiplayer-Project/master/Screenshots/AllianceScreen.png" />
   <br />
